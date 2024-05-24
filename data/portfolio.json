@@ -1,0 +1,63 @@
+[
+    {
+        "image": "image1.png",
+        "title": "Booki",
+        "text": "En étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer,je suis chargé d'intégrer l'interface du site avec du code HTML et CSS.  ",
+        "link": "https://github.com/Cinq-A/booki-starter-code-master"
+    },
+    {
+        "image": "image2.png",
+        "title": "Sophie Bluel",
+        "text": "Créer une page web dynamique pour le site internet d'une architecte d'intérieur en utilisant JavaScript et en communiquant avec une API. Les éléments sont développés from scratch.",
+        "link": "https://github.com/Cinq-A/Portfolio-architecte-sophie-bluel-master"
+    },
+    {
+        "image": "image3.png",
+        "title": "Kasa",
+        "text": "Dans ce projet, j'ai implémenté le front-end d’une application de location de logement. Avec React pour créer des composants et React Router pour la navigation. Une refonte totale pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end.",
+        "link": "https://github.com/Cinq-A/kasa"
+    },
+    {
+        "image": "image4.png",
+        "title": "Eco.bliss.bath",
+        "text": "ma mission est d'automatiser les tests fonctionnels pour le site web de l'entreprise. Analyser les résultats d'une campagne de tests manuels précédemment réalisée. Les scripts d'automatisation sont rédigés en JavaScript, en utilisant l'outil Cypress.",
+        "link": "https://github.com/Cinq-A/Projet_10_Cypress_AMER"
+    },
+    {
+        "image": "image5.png",
+        "title": "JSE Avocats",
+        "text": "Chargé de tester le site Web en cours de développement. Il s’agit d’un site Wordpress en utilisant Docker pour exécuter le site en local. Une première version vient d’être mise à disposition et j'ai effectué les premiers tests fonctionnels en suivant le cahier de recette et en menant des tests exploratoires.",
+        "link": "https://github.com/Cinq-A/P4_Tests_fonctionnels_Cahier_de_recette"
+    },
+    {
+        "image": "image6.png",
+        "title": "Riding cities",
+        "text": "Mettre à jour la page Internet de Riding Cities, une association sportive qui promeut le skate en région.",
+        "link": "https://github.com/Cinq-A/P2_Langage_HTML_Riding_Cities"
+    },
+    {
+        "image": "image7.png",
+        "title": "724events",
+        "text": "Chargé de mener une campagne de tests complète. Avec (Docker Desktop), j'ai analysé en détail les anomalies et rédigé un rapport complet (Bilan de recette). Réaliser des tests exploratoires et toutes les anomalies détectées sont documentées et suivies dans JIRA. ",
+        "link": "https://github.com/Cinq-A/P5_Mener_une_compagne_de_test"
+    },
+    {
+        "image": "print-it.avif",
+        "title": "Print it!",
+        "text": "Avec le langage JavaScript, je suis chargé de dynamiser le site internet statique d'une imprimerie en y ajoutant un carrousel interactif.",
+        "link": "https://github.com/Cinq-A/Print-it-JS-main"
+    },
+    {
+        "image": "image9.png",
+        "title": "Qwenta",
+        "text": "Dans ce projet, je suis chargé de définir une stratégie de test pour une application avant sa mise en production. Entreprendre une veille technologique, rédiger les spécifications techniques en utilisant outil de gestion de projet Notion et enfin, présenter la solution technique.",
+        "link": "https://github.com/Cinq-A/Planifiez_le_developpement_du_site_P9"
+    },
+    {
+        "image": "image10.png",
+        "title": "Tomsen",
+        "text": "Dans ce projet, je suis chargé de définir une stratégie de test  avant sa mise en production. Analyser les spécifications fonctionnelles, définir une stratégie de test, planifier les tests en fonction des sprints, rédiger un cahier de recette détaillé. ",
+        "link": "https://github.com/Cinq-A/Projet_11_strategie_de_test"
+    }
+
+]

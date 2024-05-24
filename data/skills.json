@@ -1,0 +1,49 @@
+[
+    {
+        "image": "html-css.jpg",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+    },
+    {
+        "image": "js.jpg",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+    },
+    {
+        "image": "react.jpg",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état"
+    },
+    {
+        "image": "gestion-de-projet.png",
+        "title": "Gestion de projet",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
+    },
+    {
+        "image": "optimisation-et-debug.png",
+        "title": "Optimisation et debug",
+        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
+    },
+    {
+        "image": "test.png",
+        "title": "Test",
+        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+    },
+    {
+        "image": "api-testing.jpg",
+        "title": "Tests API avec Swagger, Postman et SoapUI",
+        "text": "Test API avec Swagger, création et exécution de collections de tests avec Postman, tests de services web avec SoapUI"
+    },
+    {
+        "image": "phpmyadmin-sql.jpg",
+        "title": "Gestion de base de données avec PHPMyAdmin et SQL",
+        "text": "Utilisation de PHPMyAdmin pour gérer les bases de données MySQL, création de tables, insertion de données, exécution de requêtes SQL."
+    },
+    {
+        "image": "testing-tools.jpg",
+        "title": "Maitrise des outils de gestion de projet et test",
+        "text": "Jira, Xray, Squash, TestLink, Cypress, Notion, Figma"
+    }
+    
+    
+]
